@@ -1,3 +1,3 @@
 A simple gem template
 
-Copyright (c) 2010 Gonçalo Silva
+Copyright (c) 2012 Floris Huétink
